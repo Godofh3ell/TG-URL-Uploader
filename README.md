@@ -36,7 +36,7 @@ python bot.py
 * [InFoTel Group](https://telegram.dog/InFoTelGroup)
 
 ## TO DOWNLOAD MOVIES & SERIES JOIN
-* [TSNM CHANNEL](https//telegram.dog/TSNM_CHNLS)
+* [TSNM CHANNEL](https//t.Me/TSNM_CHNLS)
 
 
 ## Credits, and Thanks to
