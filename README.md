@@ -35,6 +35,10 @@ python bot.py
 * [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
 * [InFoTel Group](https://telegram.dog/InFoTelGroup)
 
+## TO DOWNLOAD MOVIES & SERIES JOIN
+* [TSNM CHANNEL](https//telegram.dog/TSNM_CHNLS)
+
+
 ## Credits, and Thanks to
 
 * [@SpEcHlDe](https://telegram.dog/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
